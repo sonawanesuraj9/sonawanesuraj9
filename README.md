@@ -4,10 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-**Be nice.
-Be respectful.
-Assume best intentions.
-Be kind, rewind.**
+**Be nice | Be respectful | Assume best intentions | Be kind, rewind.**
 
 <!---
 sonawanesuraj9/sonawanesuraj9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
